@@ -7,6 +7,7 @@ Js-Benchmark is a lightweight JavaScript benchmarking tool designed to evaluate 
 - **Performance Analysis**: Measure the number of operations your code can execute per second.
 - **Interactive Visualizations**: View results in real-time with dynamic graphs.
 - **No Frameworks Required**: Built entirely with vanilla JavaScript, highlighting clean and efficient code.
+- **Web Workers Integration**: Leverages Web Workers to ensure benchmarks run without blocking the main thread.
 
 ## Why Js-Benchmark?
 
